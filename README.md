@@ -74,5 +74,7 @@ npm install</code></pre>
     <pre><code>php artisan serve</code></pre>
   </li>
 </ol>
+<h1>DEMO IMAGES</h1>
+![image](https://github.com/user-attachments/assets/2b8e70ef-2bd6-43b2-8da6-8cee8cd246db)
+![image](https://github.com/user-attachments/assets/4632abc9-0d1a-41a8-a7eb-c2940b9038f3)
 
-<p>For more details, refer to the <a href="https://github.com/Rish-02/laravel-todo/blob/main/README.md">full README</a>.</p>
